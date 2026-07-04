@@ -149,17 +149,53 @@ AI-Research-Paper-Intelligence-System/
 
 The project generates:
 
-* 📑 Paper Summary
-* 📚 Section-wise Summaries
-* 🔍 Technical Entities
-* 📊 Hyperparameters
-* 📈 Evaluation Metrics
-* 🔑 Keywords
-* 🏷️ Research Domain
-* 🕸️ Knowledge Graph
-* ❓ Question Answering Results
-* 🤝 Similar Research Papers
+* 📄 PDF Download & Text Processing
 
+    ![alt text](assets/pdf_processing.png)
+
+* 📚 Automatic Section Detection
+
+    ![alt text](assets/section_detection.png)
+
+* 🔍 Custom Technical Named Entity Recognition (NER)
+
+    ![alt text](assets/technical_ner.png)
+
+*  🔍 Traditional NER Comparison
+
+    ![alt text](assets/traditional_ner.png)
+
+* 📊 Hyperparameter Extraction
+
+    ![alt text](assets/hyperparameters.png)
+
+* 📝 Section-wise Summarization
+
+    ![alt text](assets/section_summary.png)
+
+* 🔑 Keyword Extraction
+
+    ![alt text](assets/keywords.png)
+
+* 🏷️ Research Domain Classification
+
+    ![alt text](assets/topic.png)
+
+* 💡 Novelty Analysis
+
+    ![alt text](novelty.png)
+
+* 🕸️ Knowledge Graph Generation
+
+    ![alt text](assets/knowledge_graph.png)
+
+* ❓ Question Answering
+
+    ![alt text](assets/question_answering.png)
+
+* 🤝 Similar Research Paper Recommendation
+
+    ![alt text](assets/recommendation.png)
 
 
 ---
@@ -209,4 +245,4 @@ This project is intended for educational and learning purposes.
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
-Feedback and suggestions are always welcome!
+Feedback and suggestions are always welcome! 
