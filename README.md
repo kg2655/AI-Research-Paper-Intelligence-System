@@ -167,7 +167,7 @@ The project generates:
 
 * 📊 Hyperparameter Extraction
 
-    ![alt text](assets/hyperparameters.png)
+    ![alt text](assets/hyperparameterss.png)
 
 * 📝 Section-wise Summarization
 
