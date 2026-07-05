@@ -183,7 +183,7 @@ The project generates:
 
 * 💡 Novelty Analysis
 
-    ![alt text](novelty.png)
+    ![alt text](assets/novelty.png)
 
 * 🕸️ Knowledge Graph Generation
 
