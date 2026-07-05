@@ -55,3 +55,4 @@ class KnowledgeGraphBuilder:
                             g.add_edge(ent1, ent2, relation=relation)
                             
         return g
+

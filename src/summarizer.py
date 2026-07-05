@@ -52,3 +52,4 @@ class PaperSummarizer:
         if len(combined.split()) > 150:
             return self.summarize_text(combined, max_new_tokens=220)
         return combined
+

@@ -56,3 +56,4 @@ class TechnicalNER:
             hyperparameters[ent["label"]] = ent["text"]
             
         return hyperparameters
+

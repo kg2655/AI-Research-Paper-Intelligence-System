@@ -50,3 +50,4 @@ def detect_sections(text: str) -> dict:
         if body:
             out[m.group(1).lower()] = body
     return out
+

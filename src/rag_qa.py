@@ -58,3 +58,4 @@ class DocumentRAG:
             f"Answer:"
         )
         return prompt
+
